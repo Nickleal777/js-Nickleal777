@@ -1,3 +1,3 @@
 # js-Nickleal777
 
-<p xmlns:cc="http://creativecommons.org/ns#" >Este trabalho está marcado com <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a></p>
+index.html © 18/08/2024 por Monique Todoro é licenciado sob CC BY 4.0. Para ver uma cópia desta licença, visite https://creativecommons.org/licenses/by/4.0/
